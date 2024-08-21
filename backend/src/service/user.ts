@@ -1,4 +1,4 @@
-const users: Array<IUser> = [{ name: 'Fabricio', lastName: 'Fraga' }]
+const users: Array<IUser> = [{ name: 'Dev', lastName: 'Fraga' }]
 
 export interface IUser {
   name: string
